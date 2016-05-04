@@ -1,0 +1,13 @@
+{
+  "name": "matlevy-wongatest",
+  "version": "0.0.1",
+  "description": "Console Application for Wonga.com test",
+  "bin": {
+    "mlwt": "index.js"
+  },
+  "author": "Mat Levy",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
